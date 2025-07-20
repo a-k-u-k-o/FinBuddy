@@ -1,0 +1,14 @@
+FIN-BUDDY | Odoo Hackathon (MSU’25) – Top Teams
+Intro: A web-based AI-driven fintech platform that helps users manage personal finances with budgeting tools, savings insights, and real-time alerts.
+
+Key Contributions:
+
+Built a modular dashboard using pandas for financial data handling and datetime for time-based calculations.
+
+Integrated ML algorithms to analyze user spending and provide savings recommendations.
+
+Designed visual charts using matplotlib and seaborn to present financial trends and progress toward goals.
+
+Developed a scalable and clean codebase to support future enhancements and integrations.
+
+

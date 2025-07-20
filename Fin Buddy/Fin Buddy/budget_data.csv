@@ -1,0 +1,9 @@
+User,Month_Year,Category,Spent,Limit,Over Budget
+Ayush Bhagat,09/23,Accomodation,7500.0,7500.0,False
+Ayush Bhagat,09/23,Utilities,900.0,3000.0,False
+Ayush Bhagat,09/23,Food,5000.0,6000.0,False
+Ayush Bhagat,09/23,Grocery,2000.0,2000.0,False
+Ayush Bhagat,09/23,Transportation,1200.0,1800.0,False
+Ayush Bhagat,09/23,Wifi,400.0,400.0,False
+Ayush Bhagat,09/23,Helpers,400.0,400.0,False
+Ayush Bhagat,09/23,Education and healthcare,1000.0,3000.0,False
